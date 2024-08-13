@@ -1,4 +1,3 @@
-![Screenshot_1723509939](https://github.com/user-attachments/assets/ab3337ff-ce26-42d4-8722-41c51a87db50)
 
 Tweet Character Counter
 
@@ -29,3 +28,5 @@ Character Counting: Accurately counts characters considering Twitter's specific 
 Modular Design: The UI component is reusable and encapsulated in its own package.
 Real-time Tweet Posting: Post tweets directly through the app using the Twitter SDK.
 Secure Authentication: OAuth 1.0 integration ensures secure communication with Twitter's API.
+
+![Screenshot_1723509939](https://github.com/user-attachments/assets/ab3337ff-ce26-42d4-8722-41c51a87db50 = 100x100)
