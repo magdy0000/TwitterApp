@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ab3337ff-ce26-42d4-8722-41c51a87db50" alt="Screenshot_1723509939" width="300"/>
+</div>
 
 Tweet Character Counter
 
@@ -29,5 +32,4 @@ Modular Design: The UI component is reusable and encapsulated in its own package
 Real-time Tweet Posting: Post tweets directly through the app using the Twitter SDK.
 Secure Authentication: OAuth 1.0 integration ensures secure communication with Twitter's API.
 
-<img src="https://github.com/user-attachments/assets/ab3337ff-ce26-42d4-8722-41c51a87db50" alt="Screenshot_1723509939" width="300"/>
 
