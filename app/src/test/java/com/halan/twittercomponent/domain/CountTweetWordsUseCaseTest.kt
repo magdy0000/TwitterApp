@@ -19,7 +19,7 @@ class CountTweetWordsUseCaseTest {
     fun `test tweet with URL`() {
         val tweet = "Check this out http://example.com"
         val remainingCharacters = countTweetWordsUseCase.remainingTweetCharacters(tweet)
-        assertEquals(242, remainingCharacters) // 280 - 34 (15 characters + 23 for URL)
+        assertEquals(245, remainingCharacters) // 280 - 35 (12 characters + 23 for URL)
     }
 
     @Test
